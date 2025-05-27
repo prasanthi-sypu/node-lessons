@@ -1,0 +1,29 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "main": "finalAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node finalAPI.js",
+    "dev": "nodemon finalAPI.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "short-uuid": "^5.2.0",
+    "start": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthi-sypu/Node-Sprint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prasanthi-sypu/Node-Sprint/issues"
+  },
+  "homepage": "https://github.com/prasanthi-sypu/Node-Sprint#readme",
+  "description": ""
+}
